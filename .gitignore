@@ -1,0 +1,21 @@
+# API Keys & Environment Variables (MOST IMPORTANT)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# Node (if you ever add packages)
+node_modules/
+npm-debug.log*
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
